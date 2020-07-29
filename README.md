@@ -10,3 +10,5 @@
   git clone https://github.com/Wonji1/KeyMaker.git --> pip install -r requirements.txt --> 
   sudo apt-get install libzbar0 --> python app.py --> 서버 ip:5000/login 으로 접속
   
+<h5> db 설정 --> flask --> config --> config.py --> database 주소, 포트 등 바꾸기
+<h5> API 서버 설정 --> flask --> static --> main --> js --> config.js 주소, 포트 등 바꾸기
