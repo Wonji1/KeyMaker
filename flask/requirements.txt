@@ -10,7 +10,7 @@ Jinja2==2.11.2
 MarkupSafe==1.1.1
 numpy==1.19.0
 opencv-python==4.2.0.34
-Pillow==7.1.2
+Pillow==8.1.1
 PyMySQL==0.9.3
 pyzbar==0.1.8
 qrcode==6.1
